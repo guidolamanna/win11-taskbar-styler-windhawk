@@ -70,6 +70,11 @@ https://github.com/user-attachments/assets/4e61b37f-efa9-460c-858c-0d7f0b29154d
 <img width="553" height="600" alt="image" src="https://github.com/user-attachments/assets/9e23aeae-22e4-4736-99cd-44c280004d8e" />
 <img width="873" height="307" alt="image" src="https://github.com/user-attachments/assets/b0d3ff24-55cb-4cd0-b151-91cdf72bc46c" />
 
+---
+
+## 🙌 Credits & Inspiration
+A huge thank you to [Ramen Software](https://github.com/ramensoftware) for creating Windhawk. This configuration was heavily inspired by the official [Windows 11 Taskbar Styling Guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide).
+
 
 ---
 *Created by [Guido Lamanna](https://github.com/guidolamanna)*
