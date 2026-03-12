@@ -14,6 +14,7 @@ This theme focuses on a clean, premium look through:
 * **DockLike Foundation:** Uses the DockLike theme as a base for the centered, detached taskbar structure.
 * **Translucent Effects:** Soft blurring via Acrylic effects for a modern, high-end feel.
 * **The "Floating" Layout:** Detached from screen edges with a centered, rounded appearance.
+* **Comprehensive Styling:** By handling all `explorer.exe` threads, this config extends the seamless "Frosty Glass" look far beyond the taskbar. It styles the volume and brightness popups, Alt+Tab and Win+Tab menus, the language popup, snap layout flyouts, and all app/system tray tooltips.
 * **Minimalist UI:** Removing unnecessary clutter to focus on pure aesthetics.
 
 ## 📐 Screen Compatibility & Reference Setup
