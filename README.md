@@ -59,6 +59,7 @@ Paste this into the **Advanced** tab of the **Taskbar Auto-Hide Instant Show** m
 
 **Video Demonstration:**
 https://github.com/user-attachments/assets/d1448b78-aadb-4d16-bca2-853ece6e96a7
+
 https://github.com/user-attachments/assets/4e61b37f-efa9-460c-858c-0d7f0b29154d
 
 **Theme Gallery:**
