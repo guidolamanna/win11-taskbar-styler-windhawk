@@ -43,9 +43,9 @@ Paste this into the **Advanced** tab of the **Taskbar Auto-Hide Instant Show** m
 ```json
 {"animationType":"slideFade","showSpeedup":400,"hideSpeedup":400,"showDuration":100,"hideDuration":100,"frameRate":120,"unhideDelay":1,"hideDelay":1,"oldTaskbarOnWin11":0,"edgeDetection":0}
 
-</details>
-
 ```
+
+</details>
 
 ## 📦 Installation
 1.  **Mod Selection:** Open **Windows 11 Taskbar Styler** in Windhawk and select the **DockLike** theme.
