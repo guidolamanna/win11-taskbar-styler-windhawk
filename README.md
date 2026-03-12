@@ -54,4 +54,16 @@ Paste this into the **Advanced** tab of the **Taskbar Auto-Hide Instant Show** m
 4.  **Save:** Click **Save** to apply the translucent effects instantly.
 
 ---
+
+## 📸 Showcase
+*Here is the Frosty Glass taskbar in action:*
+
+**Video Demonstration:**
+https://github.com/user-attachments/assets/d1448b78-aadb-4d16-bca2-853ece6e96a7
+
+**Theme Gallery:**
+<img width="2879" height="1799" alt="Screenshot 2026-03-12 001949" src="https://github.com/user-attachments/assets/a506e03d-276c-4d4e-81e9-4208575d7baf" />
+
+
+---
 *Created by [Guido Lamanna](https://github.com/guidolamanna)*
