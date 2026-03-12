@@ -36,17 +36,12 @@ For the complete "Frosty Glass" experience, I use the following Windhawk mod eco
 | **Taskbar auto-hide when maximized** | `Mode: Auto-hide when maximized or intersects taskbar` |
 | **Taskbar Auto-Hide Instant Show** | *See configuration below* |
 
-<details>
-<summary><b>Taskbar Auto-Hide Instant Show Settings (click to expand)</b></summary>
-
 Paste this into the **Advanced** tab of the **Taskbar Auto-Hide Instant Show** mod:
 
 ```json
 {"animationType":"slideFade","showSpeedup":400,"hideSpeedup":400,"showDuration":100,"hideDuration":100,"frameRate":120,"unhideDelay":1,"hideDelay":1,"oldTaskbarOnWin11":0,"edgeDetection":0}
 
 ```
-
-</details>
 
 ---
 
