@@ -20,13 +20,13 @@ This theme focuses on a clean, premium look through:
 This configuration will work on **any device or resolution**. However, depending on your physical screen size and scaling, you may want to tweak certain values (like taskbar height or icon sizes) in the mods to perfectly align with your display.
 
 For reference, the default values in this config and the screenshots below are based on my personal setup:
-* **Device:** 14" Laptop
+* **Device:** 14" Laptop (ROG Zephyrus G14 - 2024)
 * **Resolution & Scaling:** 2880 x 1800 at 200%
 
 ---
 
 ## 🛠️ The Full Setup
-For the complete "Frosty Glass" experience, I use the following Windhawk mod ecosystem:
+For the complete minimal and smooth "Frosty Glass" experience, I use the following Windhawk mod ecosystem:
 
 | Mod Name | Key Configuration Settings |
 | :--- | :--- |
