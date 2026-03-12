@@ -5,18 +5,18 @@
 [![Style](https://img.shields.io/badge/Style-Frosty_Glass-lightgrey?style=flat-square)](#)
 [![OS](https://img.shields.io/badge/OS-Windows_11-0078d4?style=flat-square)](#)
 
-This configuration moves away from a dated "glassy" look, opting instead for a modern **Frosty Glass** aesthetic. It utilizes translucent `AcrylicBrush` effects to create a soft, blurred interface that feels integrated with the wallpaper.
+This configuration features a modern **Frosty Glass** aesthetic. It utilizes custom translucent `AcrylicBrush` effects to create a soft, blurred interface that feels integrated with the desktop environment.
 
 ---
 
 ## ✨ Design Philosophy
-Unlike high-gloss transparency, this theme focuses on:
-* **Translucency over Transparency:** Soft blurring for better readability.
-* **The "Floating Dock" Effect:** Detached from screen edges with a centered, rounded appearance.
+This theme focuses on a clean, premium look through:
+* **Translucent Effects:** Soft blurring for a modern, high-end feel.
+* **The "Floating Dock" Layout:** Detached from screen edges with a centered, rounded appearance.
 * **Minimalist UI:** Removing unnecessary clutter (like the date and notification bell) to focus on pure aesthetics.
 
 ## 📐 Display Optimization
-This theme is specifically tuned for high-resolution displays to ensure pixel-perfect rounding and font rendering:
+Specifically tuned for high-resolution displays to ensure pixel-perfect rounding and font rendering:
 * **Resolution:** 2880 x 1800 (14" Laptop)
 * **Scaling:** 200%
 * **Primary Font:** `vivo Sans EN VF`
