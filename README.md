@@ -66,7 +66,6 @@ https://github.com/user-attachments/assets/4e61b37f-efa9-460c-858c-0d7f0b29154d
 **Theme Gallery:**
 
 <img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/ef3821f8-b050-43f8-bd81-7225770386d6" />
-<img width="2874" height="277" alt="image" src="https://github.com/user-attachments/assets/b907a88f-badb-47f0-8eea-020992d34498" />
 <img width="787" height="584" alt="image" src="https://github.com/user-attachments/assets/07d27ad5-086a-4af0-9164-f27dcf380ec8" />
 <img width="553" height="600" alt="image" src="https://github.com/user-attachments/assets/9e23aeae-22e4-4736-99cd-44c280004d8e" />
 <img width="873" height="307" alt="image" src="https://github.com/user-attachments/assets/b0d3ff24-55cb-4cd0-b151-91cdf72bc46c" />
