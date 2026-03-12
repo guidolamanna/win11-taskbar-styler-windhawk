@@ -41,12 +41,18 @@ For the complete "Frosty Glass" experience, I use the following Windhawk mod eco
 Paste this into the **Advanced** tab of the **Taskbar Auto-Hide Instant Show** mod:
 
 ```json
-{"animationType":"slideFade","showSpeedup":400,"hideSpeedup":400,"showDuration":100,"hideDuration":100,"frameRate":120,"unhideDelay":1,"hideDelay":1,"oldTaskbarOnWin11":0,"edgeDetection":0}```
+{"animationType":"slideFade","showSpeedup":400,"hideSpeedup":400,"showDuration":100,"hideDuration":100,"frameRate":120,"unhideDelay":1,"hideDelay":1,"oldTaskbarOnWin11":0,"edgeDetection":0}
+```
+
+<details>
 
 ---
 
 ## 📦 Installation
-1.  **Download:** Copy the raw code from [`taskbar-config.json`](./taskbar-config.json).
-2.  **Mod Settings:** Open **Windows 11 Taskbar Styler** in Windhawk.
-3.  **Advanced Tab:** Paste the code into the configuration box.
+1.  **Mod Selection:** Open **Windows 11 Taskbar Styler** in Windhawk and select the **DockLike** theme.
+2.  **Download Config:** Copy the raw code from [`taskbar-config.json`](./taskbar-config.json).
+3.  **Advanced Tab:** Paste the code into the configuration box in the **Advanced** tab.
 4.  **Save:** Click **Save** to apply the translucent effects instantly.
+
+---
+*Created by [Guido Lamanna](https://github.com/guidolamanna)*
