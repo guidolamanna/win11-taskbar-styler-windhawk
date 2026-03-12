@@ -16,11 +16,12 @@ This theme focuses on a clean, premium look through:
 * **The "Floating" Layout:** Detached from screen edges with a centered, rounded appearance.
 * **Minimalist UI:** Removing unnecessary clutter to focus on pure aesthetics.
 
-## 📐 Display Optimization
-Specifically tuned for high-resolution displays to ensure pixel-perfect rounding and font rendering:
-* **Resolution:** 2880 x 1800 (14" Laptop)
-* **Scaling:** 200%
-* **Primary Font:** `vivo Sans EN VF`
+## 📐 Screen Compatibility & Reference Setup
+This configuration will work on **any device or resolution**. However, depending on your physical screen size and scaling, you may want to tweak certain values (like taskbar height or icon sizes) in the mods to perfectly align with your display.
+
+For reference, the default values in this config and the screenshots below are based on my personal setup:
+* **Device:** 14" Laptop
+* **Resolution & Scaling:** 2880 x 1800 at 200%
 
 ---
 
