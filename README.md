@@ -74,6 +74,14 @@ https://github.com/user-attachments/assets/4e61b37f-efa9-460c-858c-0d7f0b29154d
 
 ---
 
+## 🔗 Related Projects
+
+Complete the look across your entire OS! Check out my other Frosty Glass styling repositories:
+* [❄️ Frosty Glass Start Menu Styler](https://github.com/guidolamanna/win11-startmenu-styler-frostyglass-windhawk) to apply this exact same aesthetic to your Start Menu and Lock Screen!
+* [❄️ Frosty Glass Notification Center Styler](https://github.com/guidolamanna/win11-notificationcenter-styler-frostyglass-windhawk) to theme your Notifications, Calendar, and Control Center flyouts!
+
+---
+
 ## 🙌 Credits & Inspiration
 A huge thank you to [Ramen Software](https://github.com/ramensoftware) for creating Windhawk. This configuration was heavily inspired by the official [Windows 11 Taskbar Styling Guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide).
 
