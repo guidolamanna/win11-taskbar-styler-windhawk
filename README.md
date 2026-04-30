@@ -65,9 +65,8 @@ https://github.com/user-attachments/assets/4e61b37f-efa9-460c-858c-0d7f0b29154d
 
 **Theme Gallery:**
 
-<img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/ef3821f8-b050-43f8-bd81-7225770386d6" />
-<img width="787" height="584" alt="image" src="https://github.com/user-attachments/assets/07d27ad5-086a-4af0-9164-f27dcf380ec8" />
-<img width="553" height="600" alt="image" src="https://github.com/user-attachments/assets/9e23aeae-22e4-4736-99cd-44c280004d8e" />
+<img width="2876" height="1799" alt="Screenshot 2026-04-30 150608" src="https://github.com/user-attachments/assets/6db309dc-db2a-44a9-9343-6adcfe3cc2f0" />
+<img width="1043" height="651" alt="Screenshot 2026-04-30 150622" src="https://github.com/user-attachments/assets/05a923bb-b7a9-4b3f-8739-b7c81d7dfbbf" /><img width="553" height="600" alt="image" src="https://github.com/user-attachments/assets/9e23aeae-22e4-4736-99cd-44c280004d8e" />
 <img width="873" height="307" alt="image" src="https://github.com/user-attachments/assets/b0d3ff24-55cb-4cd0-b151-91cdf72bc46c" />
 <img width="1066" height="553" alt="image" src="https://github.com/user-attachments/assets/d85aa313-ea82-4bf8-849b-cf001370b06d" />
 
