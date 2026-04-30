@@ -83,8 +83,7 @@ Complete the look across your entire OS! Check out my other Frosty Glass styling
 ---
 
 ## 🙌 Credits & Inspiration
-A huge thank you to [Ramen Software](https://github.com/ramensoftware) for creating Windhawk. This configuration was heavily inspired by the official [Windows 11 Taskbar Styling Guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide).
-
+A huge thank you to [Ramen Software](https://github.com/ramensoftware) for creating Windhawk. This configuration was heavily inspired by the official [Windows 11 Taskbar Styling Guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide) and the Windhawk modding community.
 
 ---
 *Created by [Guido Lamanna](https://github.com/guidolamanna)*
