@@ -33,7 +33,7 @@ For the complete minimal and smooth "Frosty Glass" experience, I use the followi
 | :--- | :--- |
 | **Taskbar tray system icon tweaks** | `Hide location icon` \| `Hide bell icon` \| `Show desktop width: 12` |
 | **Taskbar tray auto-hide (show on hover)** | `Hidden opacity: 0` \| `Hide delay: 0` \| `Fade duration: 100` |
-| **Taskbar height and icon size** | `Height: 50` \| `Icon & Small Icon: 30` \| `Button & Small Button Width: 42` |
+| **Taskbar height and icon size** | `Height: 52` \| `Icon Size: 32` \| `Button Width: 44` \| `Small Icon Size: 24` \| `Small Button Width: 36` |
 | **Taskbar auto-hide when maximized** | `Mode: Auto-hide when maximized or intersects taskbar` |
 | **Taskbar Auto-Hide Instant Show** | *See configuration below* |
 
